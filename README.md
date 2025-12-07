@@ -38,7 +38,7 @@ honestly, this is kind of sketchy and there's probably a better way to do this b
 ./spoticamper.py -h
 
 # run script
-./spoticamper.py 'https://open.spotify.com/playlist/...'
+./spoticamper.py -p 'https://open.spotify.com/playlist/...'
 
 # print stats or list unpurchased tracks
 ./spoticamper.py -p
